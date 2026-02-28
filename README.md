@@ -1,133 +1,122 @@
-# 👋 Hi, I'm Yatharth Kelkar  
+<h1 align="center">Yatharth Kelkar</h1>
+<h3 align="center">Full-Stack Developer • Systems Builder • Tech Innovator</h3>
 
-🚀 **Full-Stack Developer | App Developer | Tech Innovator | Open-Source Enthusiast**  
-📍 Based in Dubai  
-
----
-
-## 💡 About Me
-
-I’m a developer focused on building scalable, user-centric, and real-world applications.  
-With 2+ years of hands-on experience, I enjoy transforming ideas into fully functional systems — from web platforms to intelligent bots and hardware-integrated projects.
-
-I specialize in:
-- Clean architecture  
-- Efficient code structure  
-- Performance optimization  
-- Practical problem-solving  
+<p align="center">
+Building scalable applications, intelligent systems, and real-world technology solutions.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Profile Overview
 
-### 💻 Languages
-- HTML5  
-- CSS3  
-- JavaScript  
-- Python  
-- C  
-- C++  
-- C#  
+I design and build structured, scalable, and performance-focused applications across web, software, and hardware systems.
 
-### ⚙️ Technologies & Tools
-- Linux  
-- Git & GitHub  
-- Responsive Web Design  
-- UI/UX Design  
-- Open-Source Systems  
-- Application Architecture Design  
+With 2+ years of hands-on development experience, I focus on:
+- Clean architecture & modular systems
+- High-performance front-end interfaces
+- Logical backend workflows
+- Real-world engineering integration
+- Continuous technical growth
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Technical Stack
 
-### 🛒 Amazon-Inspired Shopping App
-A structured e-commerce platform featuring:
-- Add-to-cart system  
-- Organized product layout  
-- Clean UI architecture  
-- Beginner-friendly base code for learning app structure  
+### Languages
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+
+### Tools & Systems
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+
+---
+
+## 🧠 Core Projects
+
+### 🛒 E-Commerce Shopping Application
+Amazon-inspired architecture with:
+- Structured cart system
+- Organized product workflows
+- Clean UI/UX structure
+- Scalable application logic
 
 ---
 
 ### 🌍 Google Translate Clone
-A functional translation interface clone with:
 - Dynamic input handling  
-- Clean UI replication  
-- Interactive front-end logic  
+- Clean interface replication  
+- Structured front-end logic  
 
 ---
 
-### 🤖 SmartDud – AI Chatbot
-An intelligent chatbot system designed to:
-- Respond dynamically to user queries  
-- Simulate conversational AI behavior  
-- Demonstrate logic handling and structured response systems  
-- Showcase backend and interaction flow design  
+### 🤖 SmartDud – Intelligent Chatbot
+- Dynamic conversational response logic  
+- Structured interaction system  
+- Backend-driven behavior modeling  
+- Scalable AI-style framework  
 
 ---
 
 ### 📈 Trading Application
-A structured trading-focused application designed to:
-
-- Provide organized market visualization  
-- Improve analytical decision-making  
-- Enhance financial tracking efficiency  
-- Simulate or manage trading-related workflows  
-- Demonstrate data handling & application logic  
-
-**Key Benefits:**
-- Structured financial data representation  
-- Performance-oriented UI  
-- Logical trade flow modeling  
-- Scalable foundation for future financial tools  
+A performance-focused financial tool designed to:
+- Structure market data visualization
+- Improve analytical decision workflows
+- Simulate trading logic systems
+- Provide scalable financial architecture foundations
 
 ---
 
-### 🚁 Drone Project
-A hardware-integrated project involving:
-- Drone system development  
-- Hardware + software interaction  
-- System control logic  
-- Applied engineering principles  
-
-This project demonstrates my ability to work beyond web development and into embedded/real-world technology systems.
+### 🚁 Drone Engineering Project
+- Hardware + software integration  
+- System control logic implementation  
+- Real-world embedded application design  
+- Engineering-based problem solving  
 
 ---
 
-### 🌱 SmartAgro Website
-An enhanced agricultural technology platform featuring:
-- Improved GUI  
-- Structured layout  
-- Feature-rich architecture  
-- Optimized user experience  
+### 🌱 SmartAgro Platform
+- Modern GUI architecture  
+- Feature-rich structured system  
+- Enhanced UX & scalability  
 
 ---
 
-## 📈 What I Focus On
+## 📊 GitHub Analytics
 
-- Building scalable applications  
-- Designing structured codebases  
-- Merging UI excellence with backend logic  
-- Continuous learning in emerging technologies  
-- Creating real-world tech solutions  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
----
-
-## 🎯 Long-Term Vision
-
-- Build impactful tech products  
-- Expand into advanced software architecture  
-- Explore AI & intelligent systems  
-- Contribute to meaningful open-source projects  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Development Philosophy
 
-- GitHub: https://github.com/YOUR-USERNAME  
-- YouTube: (Add your channel link here)  
+- Build with precision  
+- Architect for scale  
+- Optimize for performance  
+- Learn continuously  
+- Execute relentlessly  
 
 ---
 
-⭐ **Building systems. Solving problems. Scaling ideas.**
+## 📫 Connect
+
+GitHub: https://github.com/YOUR-USERNAME  
+YouTube: (Add your channel link)
+
+---
+
+<p align="center">
+<strong>Building Systems. Solving Problems. Scaling Ideas.</strong>
+</p>
