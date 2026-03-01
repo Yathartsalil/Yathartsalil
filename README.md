@@ -40,22 +40,6 @@ With 2+ years of hands-on development experience, I focus on:
 
 ## 🧠 Core Projects
 
-### 🛒 E-Commerce Shopping Application
-Amazon-inspired architecture with:
-- Structured cart system
-- Organized product workflows
-- Clean UI/UX structure
-- Scalable application logic
-
----
-
-### 🌍 Google Translate Clone
-- Dynamic input handling  
-- Clean interface replication  
-- Structured front-end logic  
-
----
-
 ### 🤖 SmartDud – Intelligent Chatbot
 - Dynamic conversational response logic  
 - Structured interaction system  
@@ -78,6 +62,22 @@ A performance-focused financial tool designed to:
 - System control logic implementation  
 - Real-world embedded application design  
 - Engineering-based problem solving  
+
+---
+
+### 🌍 Google Translate Clone
+- Dynamic input handling  
+- Clean interface replication  
+- Structured front-end logic  
+
+---
+
+### 🛒 E-Commerce Shopping Application
+Amazon-inspired architecture with:
+- Structured cart system
+- Organized product workflows
+- Clean UI/UX structure
+- Scalable application logic
 
 ---
 
