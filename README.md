@@ -1,5 +1,5 @@
 <h1 align="center">Yatharth Kelkar</h1>
-<h3 align="center">Full-Stack Developer • Systems Builder • Tech Innovator • Blockchain ENthusiast</h3>
+<h3 align="center">Full-Stack Developer • Systems Builder • Tech Innovator • Blockchain Enthusiast</h3>
 
 <p align="center">
 Building scalable applications, intelligent systems, and real-world technology solutions.
