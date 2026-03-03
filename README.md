@@ -56,6 +56,16 @@ A performance-focused financial tool designed to:
 - Provide scalable financial architecture foundations
 
 ---
+# 🚀 TerminaX — Modular Linux System Analyzer
+
+> A lightweight, real-time terminal system monitor built with Python.
+
+TerminaX is a modular CLI-based system analyzer designed for Linux power users and developers.  
+It provides live insights into CPU, memory, and process statistics with a clean and extensible architecture.
+
+Unlike traditional system monitors such as `top` or `htop`, TerminaX focuses on developer readability, modularity, and hackability.
+
+---
 
 ### 🚁 Drone Engineering Project
 - Hardware + software integration  
