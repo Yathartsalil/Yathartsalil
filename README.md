@@ -98,32 +98,6 @@ Amazon-inspired architecture with:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=
-Yathartsalil
-&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=
-Yathartsalil
-&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🎯 Development Philosophy
-
-- Build with precision  
-- Architect for scale  
-- Optimize for performance  
-- Learn continuously  
-- Execute relentlessly  
-
----
-
 ## 📫 Connect
 
 GitHub: https://github.com/Yatharthsalil  
