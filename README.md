@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Projects1
+## 🧠 Projects
 
 | Project | Description |
 |---|---|
