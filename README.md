@@ -24,12 +24,10 @@
 
 | Project | Description |
 |---|---|
-| 🤖 **SmartDud** | AI-style chatbot with backend-driven conversational logic |
+| 🤖 ** AVS-AI-Assistant** | AI chatbot running local logic and open-source APIs like Gemini & Groq. |
 | 📈 **Trading App** | Financial tool for market data visualization & trade simulation |
 | 💻 **TerminaX** | Modular real-time Linux system monitor built in Python |
 | 🚁 **Drone Project** | Hardware + software embedded systems integration |
-| 🛒 **E-Commerce App** | Amazon-inspired storefront with cart & product workflows |
-| 🌍 **Translate Clone** | Google Translate-style frontend with dynamic input handling |
 | 🌱 **SmartAgro** | Modern GUI platform for agricultural system management |
 
 ---
