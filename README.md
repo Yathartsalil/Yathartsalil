@@ -24,7 +24,7 @@
 
 | Project | Description |
 |---|---|
-| 🤖 ** AVS-AI-Assistant** | AI chatbot running local logic and open-source APIs like Gemini & Groq. |
+| 🤖 **AVS-AI-Assistant** | AI chatbot running local logic and open-source APIs like Gemini & Groq. |
 | 📈 **Trading App** | Financial tool for market data visualization & trade simulation |
 | 🚁 **Drone Project** | Hardware + software embedded systems integration |
 | 💻 **TerminaX** | Modular real-time Linux system monitor built in Python |
