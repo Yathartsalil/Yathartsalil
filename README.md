@@ -1,4 +1,4 @@
-<h1 align="center">Yatharth Kelkar</h1>
+ <h1 align="center">Yatharth Kelkar</h1>
 <p align="center">
   <strong>Full-Stack Developer · Systems Builder · Blockchain Enthusiast</strong><br/>
   <sub>Building scalable apps, intelligent systems, and real-world tech solutions.</sub>
@@ -26,8 +26,9 @@
 |---|---|
 | 🤖 ** AVS-AI-Assistant** | AI chatbot running local logic and open-source APIs like Gemini & Groq. |
 | 📈 **Trading App** | Financial tool for market data visualization & trade simulation |
-| 💻 **TerminaX** | Modular real-time Linux system monitor built in Python |
 | 🚁 **Drone Project** | Hardware + software embedded systems integration |
+| 💻 **TerminaX** | Modular real-time Linux system monitor built in Python |
+| 🐧 **Linux-Guard** | Linux CLI based tool for printing system information (current)  |
 | 🌱 **SmartAgro** | Modern GUI platform for agricultural system management |
 
 ---
