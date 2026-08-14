@@ -29,8 +29,8 @@
 | 📈 **Trading App** | Financial tool for market data visualization & trade simulation |
 | 🚁 **Drone Project** | Hardware + software embedded systems integration |
 | 💻 **TerminaX** | Modular real-time Linux system monitor built in Python |
-| 🐧 **Linux-Guard** | Linux CLI based tool for printing system information (current)  |
-| 🌱 **SmartAgro** | Modern GUI platform for agricultural system management |
+| 🐧 **Linux-Guard** | Linux CLI based tool for printing system information )  |
+| 🌱 **P2P SHARE** | Modern CLI based tool for sharing files on LAN connections |
 
 ---
 
