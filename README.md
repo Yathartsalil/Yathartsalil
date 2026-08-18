@@ -28,7 +28,7 @@
 | 🤖 **AVS-AI-Assistant** | AI chatbot running local logic and open-source APIs like Gemini & Groq. |
 | 📈 **Trading App** | Financial tool for market data visualization & trade simulation |
 | 🌱 **P2P SHARE** | Modern CLI based tool for sharing files on LAN connections |
-| 🚁 **Trace Fix** | AI-Powered developer debugging focused website ( NOT OPEN SOURCE )   |
+| 🚁 **Drone Project** | AI-Powered drone to fly autonomously   |
 | 🐧 **Linux-Guard** | Linux CLI based tool for printing system information   |
 | 💻 **TerminaX** | Modular real-time Linux system monitor built in Python |
 
