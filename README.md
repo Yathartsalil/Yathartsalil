@@ -3,7 +3,7 @@
   <strong>Full-Stack Developer · Systems Builder · Blockchain Enthusiast</strong><br/>
   <sub>Building scalable apps, intelligent systems, and real-world tech.</sub>
  </p>
-<p align="center"> <b>My Projects talk not me.</b> </p>
+<p align="center"> <b>My Projects Talk not me.</b> </p>
 
 ---
 
