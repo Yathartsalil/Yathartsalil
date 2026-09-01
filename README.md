@@ -1,8 +1,8 @@
  <h1 align="center">Yatharth Kelkar</h1>
 <p align="center">
   <strong>Full-Stack Developer · Systems Builder · Blockchain Enthusiast</strong><br/>
- <b>My Projects talk not me.</b>
   <sub>Building scalable apps, intelligent systems, and real-world tech.</sub>
+ <b>My Projects talk not me.</b>
 </p>
 
 ---
